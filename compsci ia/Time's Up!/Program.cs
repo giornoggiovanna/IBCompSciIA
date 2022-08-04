@@ -16,7 +16,7 @@ namespace Time_s_Up_
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Task_Tester.taskpage());
+            Application.Run(new MainMenu());
         }
     }
 }

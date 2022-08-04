@@ -61,7 +61,7 @@
             // taskNameInputLabel
             // 
             this.taskNameInputLabel.AutoSize = true;
-            this.taskNameInputLabel.Location = new System.Drawing.Point(180, 93);
+            this.taskNameInputLabel.Location = new System.Drawing.Point(165, 90);
             this.taskNameInputLabel.Name = "taskNameInputLabel";
             this.taskNameInputLabel.Size = new System.Drawing.Size(62, 13);
             this.taskNameInputLabel.TabIndex = 2;
@@ -70,7 +70,7 @@
             // timeLabel
             // 
             this.timeLabel.AutoSize = true;
-            this.timeLabel.Location = new System.Drawing.Point(212, 136);
+            this.timeLabel.Location = new System.Drawing.Point(211, 137);
             this.timeLabel.Name = "timeLabel";
             this.timeLabel.Size = new System.Drawing.Size(30, 13);
             this.timeLabel.TabIndex = 3;
@@ -106,7 +106,7 @@
             // descriptionLabel
             // 
             this.descriptionLabel.AutoSize = true;
-            this.descriptionLabel.Location = new System.Drawing.Point(182, 182);
+            this.descriptionLabel.Location = new System.Drawing.Point(165, 179);
             this.descriptionLabel.Name = "descriptionLabel";
             this.descriptionLabel.Size = new System.Drawing.Size(60, 13);
             this.descriptionLabel.TabIndex = 7;
@@ -114,9 +114,9 @@
             // 
             // createTaskButton
             // 
-            this.createTaskButton.Location = new System.Drawing.Point(411, 337);
+            this.createTaskButton.Location = new System.Drawing.Point(412, 334);
             this.createTaskButton.Name = "createTaskButton";
-            this.createTaskButton.Size = new System.Drawing.Size(75, 23);
+            this.createTaskButton.Size = new System.Drawing.Size(75, 27);
             this.createTaskButton.TabIndex = 8;
             this.createTaskButton.Text = "Create Task";
             this.createTaskButton.UseVisualStyleBackColor = true;
