@@ -30,5 +30,13 @@ namespace Time_s_Up_
             this.Hide();
 
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            var pomodoroTaskForm = new Task_Tester.PomodoroTaskPage();
+            pomodoroTaskForm.Show();
+
+            this.Hide();
+        }
     }
 }

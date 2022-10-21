@@ -1,4 +1,4 @@
-﻿using System;
+﻿    using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -73,12 +73,17 @@ namespace Time_s_Up_.Task_Tester
         //Begining of program
         PomodoroTask pomTask = new PomodoroTask();
 
+
         private void createTaskButton_Click(object sender, EventArgs e)
         {
             pomTask.segTime = float.Parse(segmentTimeInput.Text);
 
             pomTask.InitializePomTimer(float.Parse(segmentTimeInput.Text), float.Parse(breakTimeInput.Text), int.Parse(segmentAmountInput.Text), taskName.Text, descriptionInput.Text, segmentTimeSelector.Text, breakTimeSelector.Text);
-            
+
+            var mainMenuPage = new MainMenu();
+            mainMenuPage.Show();
+
+            this.Hide();
         }   
     }
 
@@ -89,15 +94,20 @@ namespace Time_s_Up_.Task_Tester
         public EventHandler<int> BreakStarted;
         public EventHandler<int> SegmentStarted;
 
+        int segmentCounter;
+        int segmentAmount;
+
         //Initializing the timer
         public void InitializePomTimer(float segTimeInput, float breakTimeInput, int segAmount, string taskNameInput, string taskDescription, string segTimeSelector, string breakTimeSelector) 
         {
             Timer timer = new Timer();
 
             //Giving values to properties
-            segTime = segTimeInput;
-            breakTime = breakTimeInput;
+            segTime = convertTimerTime((int)segTimeInput, segTimeSelector);
+            breakTime = convertTimerTime((int)breakTimeInput, breakTimeSelector);
             taskName = taskNameInput;
+            segmentAmount = (segAmount);
+            segmentCounter = 0;
 
             //Starting timer
             timer.Interval = (int)segTime;
@@ -140,20 +150,27 @@ namespace Time_s_Up_.Task_Tester
         //Telling the program to restart the segment timer once the break timer ends
         protected virtual void OnBreakEnd(object sender, EventArgs e)
         {
-            new ToastContentBuilder()
-                .AddArgument("action", "viewConversation")
-                .AddArgument("taskid")
-                .AddText("Your break has ended!")
-                .AddText($@"Your break for {taskName} has end! Time to get back to work!")
-                .Show();
+            if (segmentCounter <= segmentAmount)
+            {
+                new ToastContentBuilder()
+                    .AddArgument("action", "viewConversation")
+                    .AddArgument("taskid")
+                    .AddText("Your break has ended!")
+                    .AddText($@"Your break for {taskName} has end! Time to get back to work!")
+                    .Show();
 
+                pomBreakEnd((int)segTime);
 
+            }
+            else return;
+            
         }
         
         //Invoking the SegmentStarted event
         protected virtual void pomBreakEnd(int segTime)
         {
             SegmentStarted?.Invoke(this, segTime);
+
         }
 
         //Starting the segment timer

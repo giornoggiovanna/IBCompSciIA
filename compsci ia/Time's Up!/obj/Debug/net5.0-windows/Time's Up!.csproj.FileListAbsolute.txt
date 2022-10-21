@@ -1,0 +1,51 @@
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIA\compsci ia\Time's Up!\bin\Debug\net5.0-windows\Time's Up!.exe
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIA\compsci ia\Time's Up!\bin\Debug\net5.0-windows\Time's Up!.dll.config
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIA\compsci ia\Time's Up!\bin\Debug\net5.0-windows\Time's Up!.deps.json
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIA\compsci ia\Time's Up!\bin\Debug\net5.0-windows\Time's Up!.runtimeconfig.json
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIA\compsci ia\Time's Up!\bin\Debug\net5.0-windows\Time's Up!.runtimeconfig.dev.json
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIA\compsci ia\Time's Up!\bin\Debug\net5.0-windows\Time's Up!.dll
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIA\compsci ia\Time's Up!\bin\Debug\net5.0-windows\Time's Up!.pdb
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIA\compsci ia\Time's Up!\bin\Debug\net5.0-windows\Microsoft.Toolkit.Uwp.Notifications.dll
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIA\compsci ia\Time's Up!\bin\Debug\net5.0-windows\Windows.Foundation.UniversalApiContract.winmd
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIA\compsci ia\Time's Up!\bin\Debug\net5.0-windows\Windows.Foundation.FoundationContract.winmd
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIA\compsci ia\Time's Up!\bin\Debug\net5.0-windows\System.Runtime.WindowsRuntime.dll
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIA\compsci ia\Time's Up!\bin\Debug\net5.0-windows\Windows.Networking.Connectivity.WwanContract.winmd
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIA\compsci ia\Time's Up!\bin\Debug\net5.0-windows\Windows.WinMD
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIA\compsci ia\Time's Up!\bin\Debug\net5.0-windows\Windows.ApplicationModel.Activation.ActivatedEventsContract.winmd
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIA\compsci ia\Time's Up!\bin\Debug\net5.0-windows\Windows.ApplicationModel.Wallet.WalletContract.winmd
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIA\compsci ia\Time's Up!\bin\Debug\net5.0-windows\Windows.ApplicationModel.Calls.LockScreenCallContract.winmd
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIA\compsci ia\Time's Up!\bin\Debug\net5.0-windows\Windows.Phone.PhoneContract.winmd
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIA\compsci ia\Time's Up!\bin\Debug\net5.0-windows\Windows.Devices.Custom.CustomDeviceContract.winmd
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIA\compsci ia\Time's Up!\bin\Debug\net5.0-windows\Windows.Devices.Portable.PortableDeviceContract.winmd
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIA\compsci ia\Time's Up!\bin\Debug\net5.0-windows\Windows.Devices.Scanners.ScannerDeviceContract.winmd
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIA\compsci ia\Time's Up!\bin\Debug\net5.0-windows\Windows.Devices.Sms.LegacySmsApiContract.winmd
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIA\compsci ia\Time's Up!\bin\Debug\net5.0-windows\Windows.Management.Workplace.WorkplaceSettingsContract.winmd
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIA\compsci ia\Time's Up!\bin\Debug\net5.0-windows\Windows.Media.Capture.CameraCaptureUIContract.winmd
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIA\compsci ia\Time's Up!\bin\Debug\net5.0-windows\Windows.Media.Devices.CallControlContract.winmd
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIA\compsci ia\Time's Up!\bin\Debug\net5.0-windows\Windows.Media.MediaControlContract.winmd
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIA\compsci ia\Time's Up!\bin\Debug\net5.0-windows\Windows.Media.Playlists.PlaylistsContract.winmd
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIA\compsci ia\Time's Up!\bin\Debug\net5.0-windows\Windows.Networking.NetworkOperators.LegacyNetworkOperatorsContract.winmd
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIA\compsci ia\Time's Up!\bin\Debug\net5.0-windows\Windows.Phone.StartScreen.DualSimTileContract.winmd
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIA\compsci ia\Time's Up!\bin\Debug\net5.0-windows\Windows.Security.ExchangeActiveSyncProvisioning.EasContract.winmd
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIA\compsci ia\Time's Up!\bin\Debug\net5.0-windows\Windows.UI.ApplicationSettings.ApplicationsSettingsContract.winmd
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIA\compsci ia\Time's Up!\bin\Debug\net5.0-windows\Windows.UI.Core.AnimationMetrics.AnimationMetricsContract.winmd
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIA\compsci ia\Time's Up!\bin\Debug\net5.0-windows\Windows.UI.WebUI.Core.WebUICommandBarContract.winmd
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIA\compsci ia\Time's Up!\bin\Debug\net5.0-windows\Windows.ApplicationModel.Activation.WebUISearchActivatedEventsContract.winmd
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIA\compsci ia\Time's Up!\bin\Debug\net5.0-windows\Windows.Devices.Printers.Extensions.ExtensionsContract.winmd
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIA\compsci ia\Time's Up!\bin\Debug\net5.0-windows\Microsoft.Toolkit.Uwp.Notifications.pdb
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIA\compsci ia\Time's Up!\bin\Debug\net5.0-windows\Microsoft.Toolkit.Uwp.Notifications.xml
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIA\compsci ia\Time's Up!\bin\Debug\net5.0-windows\System.Runtime.WindowsRuntime.xml
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIA\compsci ia\Time's Up!\obj\Debug\net5.0-windows\Time's Up!.csproj.AssemblyReference.cache
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIA\compsci ia\Time's Up!\obj\Debug\net5.0-windows\Time_s_Up_.MainMenu.resources
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIA\compsci ia\Time's Up!\obj\Debug\net5.0-windows\Time_s_Up_.Task_Tester.PomodoroTaskPage.resources
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIA\compsci ia\Time's Up!\obj\Debug\net5.0-windows\Time_s_Up_.Properties.Resources.resources
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIA\compsci ia\Time's Up!\obj\Debug\net5.0-windows\Time_s_Up_.Task_Tester.taskpage.resources
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIA\compsci ia\Time's Up!\obj\Debug\net5.0-windows\Time's Up!.csproj.GenerateResource.cache
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIA\compsci ia\Time's Up!\obj\Debug\net5.0-windows\Time's Up!.GeneratedMSBuildEditorConfig.editorconfig
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIA\compsci ia\Time's Up!\obj\Debug\net5.0-windows\Time's Up!.csproj.CoreCompileInputs.cache
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIA\compsci ia\Time's Up!\obj\Debug\net5.0-windows\Time's Up!.csproj.CopyComplete
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIA\compsci ia\Time's Up!\obj\Debug\net5.0-windows\Time's Up!.dll
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIA\compsci ia\Time's Up!\obj\Debug\net5.0-windows\refint\Time's Up!.dll
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIA\compsci ia\Time's Up!\obj\Debug\net5.0-windows\Time's Up!.pdb
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIA\compsci ia\Time's Up!\obj\Debug\net5.0-windows\Time's Up!.genruntimeconfig.cache
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIA\compsci ia\Time's Up!\obj\Debug\net5.0-windows\ref\Time's Up!.dll

@@ -1,0 +1,377 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Time's Up!/1.0.0": {
+        "dependencies": {
+          "Microsoft.Toolkit.Uwp.Notifications": "7.1.0.0"
+        },
+        "runtime": {
+          "Time's Up!.dll": {}
+        }
+      },
+      "Microsoft.Toolkit.Uwp.Notifications/7.1.0.0": {
+        "runtime": {
+          "Microsoft.Toolkit.Uwp.Notifications.dll": {
+            "assemblyVersion": "7.1.0.0",
+            "fileVersion": "7.1.2.1"
+          }
+        }
+      },
+      "Windows.Foundation.UniversalApiContract/10.0.0.0": {
+        "runtime": {
+          "Windows.Foundation.UniversalApiContract.winmd": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.19041.1"
+          }
+        }
+      },
+      "Windows.Foundation.FoundationContract/4.0.0.0": {
+        "runtime": {
+          "Windows.Foundation.FoundationContract.winmd": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "10.0.19041.1"
+          }
+        }
+      },
+      "System.Runtime.WindowsRuntime/4.0.14.0": {
+        "runtime": {
+          "System.Runtime.WindowsRuntime.dll": {
+            "assemblyVersion": "4.0.14.0",
+            "fileVersion": "4.700.19.46214"
+          }
+        }
+      },
+      "Windows.Networking.Connectivity.WwanContract/2.0.0.0": {
+        "runtime": {
+          "Windows.Networking.Connectivity.WwanContract.winmd": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "10.0.19041.1"
+          }
+        }
+      },
+      "Windows/255.255.255.255": {
+        "runtime": {
+          "Windows.WinMD": {
+            "assemblyVersion": "255.255.255.255",
+            "fileVersion": "0.0.65535.65535"
+          }
+        }
+      },
+      "Windows.ApplicationModel.Activation.ActivatedEventsContract/1.0.0.0": {
+        "runtime": {
+          "Windows.ApplicationModel.Activation.ActivatedEventsContract.winmd": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "10.0.19041.1"
+          }
+        }
+      },
+      "Windows.ApplicationModel.Wallet.WalletContract/1.0.0.0": {
+        "runtime": {
+          "Windows.ApplicationModel.Wallet.WalletContract.winmd": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "10.0.19041.1"
+          }
+        }
+      },
+      "Windows.ApplicationModel.Calls.LockScreenCallContract/1.0.0.0": {
+        "runtime": {
+          "Windows.ApplicationModel.Calls.LockScreenCallContract.winmd": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "10.0.19041.1"
+          }
+        }
+      },
+      "Windows.Phone.PhoneContract/1.0.0.0": {
+        "runtime": {
+          "Windows.Phone.PhoneContract.winmd": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "10.0.0.0"
+          }
+        }
+      },
+      "Windows.Devices.Custom.CustomDeviceContract/1.0.0.0": {
+        "runtime": {
+          "Windows.Devices.Custom.CustomDeviceContract.winmd": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "10.0.19041.1"
+          }
+        }
+      },
+      "Windows.Devices.Portable.PortableDeviceContract/1.0.0.0": {
+        "runtime": {
+          "Windows.Devices.Portable.PortableDeviceContract.winmd": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "10.0.19041.1"
+          }
+        }
+      },
+      "Windows.Devices.Scanners.ScannerDeviceContract/1.0.0.0": {
+        "runtime": {
+          "Windows.Devices.Scanners.ScannerDeviceContract.winmd": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "10.0.19041.1"
+          }
+        }
+      },
+      "Windows.Devices.Sms.LegacySmsApiContract/1.0.0.0": {
+        "runtime": {
+          "Windows.Devices.Sms.LegacySmsApiContract.winmd": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "10.0.19041.1"
+          }
+        }
+      },
+      "Windows.Management.Workplace.WorkplaceSettingsContract/1.0.0.0": {
+        "runtime": {
+          "Windows.Management.Workplace.WorkplaceSettingsContract.winmd": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "10.0.19041.1"
+          }
+        }
+      },
+      "Windows.Media.Capture.CameraCaptureUIContract/1.0.0.0": {
+        "runtime": {
+          "Windows.Media.Capture.CameraCaptureUIContract.winmd": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "10.0.19041.1"
+          }
+        }
+      },
+      "Windows.Media.Devices.CallControlContract/1.0.0.0": {
+        "runtime": {
+          "Windows.Media.Devices.CallControlContract.winmd": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "10.0.19041.1"
+          }
+        }
+      },
+      "Windows.Media.MediaControlContract/1.0.0.0": {
+        "runtime": {
+          "Windows.Media.MediaControlContract.winmd": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "10.0.19041.1"
+          }
+        }
+      },
+      "Windows.Media.Playlists.PlaylistsContract/1.0.0.0": {
+        "runtime": {
+          "Windows.Media.Playlists.PlaylistsContract.winmd": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "10.0.19041.1"
+          }
+        }
+      },
+      "Windows.Networking.NetworkOperators.LegacyNetworkOperatorsContract/1.0.0.0": {
+        "runtime": {
+          "Windows.Networking.NetworkOperators.LegacyNetworkOperatorsContract.winmd": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "10.0.19041.1"
+          }
+        }
+      },
+      "Windows.Phone.StartScreen.DualSimTileContract/1.0.0.0": {
+        "runtime": {
+          "Windows.Phone.StartScreen.DualSimTileContract.winmd": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "10.0.0.0"
+          }
+        }
+      },
+      "Windows.Security.ExchangeActiveSyncProvisioning.EasContract/1.0.0.0": {
+        "runtime": {
+          "Windows.Security.ExchangeActiveSyncProvisioning.EasContract.winmd": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "10.0.19041.1"
+          }
+        }
+      },
+      "Windows.UI.ApplicationSettings.ApplicationsSettingsContract/1.0.0.0": {
+        "runtime": {
+          "Windows.UI.ApplicationSettings.ApplicationsSettingsContract.winmd": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "10.0.19041.1"
+          }
+        }
+      },
+      "Windows.UI.Core.AnimationMetrics.AnimationMetricsContract/1.0.0.0": {
+        "runtime": {
+          "Windows.UI.Core.AnimationMetrics.AnimationMetricsContract.winmd": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "10.0.19041.1"
+          }
+        }
+      },
+      "Windows.UI.WebUI.Core.WebUICommandBarContract/1.0.0.0": {
+        "runtime": {
+          "Windows.UI.WebUI.Core.WebUICommandBarContract.winmd": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "10.0.19041.1"
+          }
+        }
+      },
+      "Windows.ApplicationModel.Activation.WebUISearchActivatedEventsContract/1.0.0.0": {
+        "runtime": {
+          "Windows.ApplicationModel.Activation.WebUISearchActivatedEventsContract.winmd": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "10.0.19041.1"
+          }
+        }
+      },
+      "Windows.Devices.Printers.Extensions.ExtensionsContract/2.0.0.0": {
+        "runtime": {
+          "Windows.Devices.Printers.Extensions.ExtensionsContract.winmd": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "10.0.19041.1"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Time's Up!/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Toolkit.Uwp.Notifications/7.1.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Windows.Foundation.UniversalApiContract/10.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Windows.Foundation.FoundationContract/4.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Runtime.WindowsRuntime/4.0.14.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Windows.Networking.Connectivity.WwanContract/2.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Windows/255.255.255.255": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Windows.ApplicationModel.Activation.ActivatedEventsContract/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Windows.ApplicationModel.Wallet.WalletContract/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Windows.ApplicationModel.Calls.LockScreenCallContract/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Windows.Phone.PhoneContract/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Windows.Devices.Custom.CustomDeviceContract/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Windows.Devices.Portable.PortableDeviceContract/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Windows.Devices.Scanners.ScannerDeviceContract/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Windows.Devices.Sms.LegacySmsApiContract/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Windows.Management.Workplace.WorkplaceSettingsContract/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Windows.Media.Capture.CameraCaptureUIContract/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Windows.Media.Devices.CallControlContract/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Windows.Media.MediaControlContract/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Windows.Media.Playlists.PlaylistsContract/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Windows.Networking.NetworkOperators.LegacyNetworkOperatorsContract/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Windows.Phone.StartScreen.DualSimTileContract/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Windows.Security.ExchangeActiveSyncProvisioning.EasContract/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Windows.UI.ApplicationSettings.ApplicationsSettingsContract/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Windows.UI.Core.AnimationMetrics.AnimationMetricsContract/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Windows.UI.WebUI.Core.WebUICommandBarContract/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Windows.ApplicationModel.Activation.WebUISearchActivatedEventsContract/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Windows.Devices.Printers.Extensions.ExtensionsContract/2.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

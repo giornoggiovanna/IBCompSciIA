@@ -20,7 +20,7 @@ namespace Time_s_Up_.Task_Tester
 
         string[,] pasttasks;
         int i = 1;
-        bool isPomodoro = false;
+
 
         public taskpage()
         {
@@ -99,30 +99,6 @@ namespace Time_s_Up_.Task_Tester
             this.Hide();
         }
 
-    //    while(timer.Interval != 0)
-    //        {
-
-    //            if(timer.Interval == ((2000) * 60) * 60))
-    //            {
-                    
-    //                new ToastContentBuilder()
-    //                    .AddArgument("action", "viewConversation")
-    //                    .AddArgument("taskid", i)
-    //                    .AddText("Your timer is up!")
-    //                    .AddText($@"Your task, {taskName}, is now completed! Great job!")
-    //                    .Show();
-    //            }
-
-    //         }
-
-
-    //        private void taskNameInput_TextChanged(object sender, EventArgs e)
-    //                {
-    //                    taskName.Text = taskNameInput.Text;
-    //                }
-
-    //}
-
         private void label1_Click_1(object sender, EventArgs e)
         {
 
@@ -136,6 +112,11 @@ namespace Time_s_Up_.Task_Tester
         }
 
         private void timeInput_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void descriptionLabel_Click(object sender, EventArgs e)
         {
 
         }
@@ -163,8 +144,6 @@ namespace Time_s_Up_.Task_Tester
         public void InitializeTimer(string timeSelector, float timeInput, string taskName, string taskDescription)
         {
 
-
-
             timer.Tick += new System.EventHandler(Timer_Tick);
             i++;
 
@@ -184,13 +163,14 @@ namespace Time_s_Up_.Task_Tester
             timer.Enabled = false;
         }
 
+        //A method that converts the string of inputs to integers
         protected int convertTimerTime(int timeInput, string timeSelector) => timeSelector switch
         {
             "Seconds" => (int)(timeInput) * 1000,
             "Minutes" => (int)((timeInput) * 1000) * 60,
             "Hours" => (int)((timeInput * 1000) * 60) * 60,
+            _ => (int)0
         };
-
     }
 
     public class TimerTask : Task
@@ -205,8 +185,6 @@ namespace Time_s_Up_.Task_Tester
     public partial class PomodoroTask : Task
     {
 
-        
-
         public float segTime { get; set; }
         public float breakTime { get; set; }
 
@@ -214,9 +192,6 @@ namespace Time_s_Up_.Task_Tester
         public string breakTimeSelector { get; set; }
         
         public int segAmount { get; set; }
-
-
-        
 
     }
 }
