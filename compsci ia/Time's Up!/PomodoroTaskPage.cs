@@ -76,6 +76,14 @@ namespace Time_s_Up_.Task_Tester
 
         private void createTaskButton_Click(object sender, EventArgs e)
         {
+
+            new ToastContentBuilder()
+                .AddArgument("action", "viewConversation")
+                .AddArgument("taskid")
+                .AddText("Your task has started!")
+                .AddText($@"Your task {taskName} has started!")
+                .Show();
+
             pomTask.segTime = float.Parse(segmentTimeInput.Text);
 
             pomTask.InitializePomTimer(float.Parse(segmentTimeInput.Text), float.Parse(breakTimeInput.Text), int.Parse(segmentAmountInput.Text), taskName.Text, descriptionInput.Text, segmentTimeSelector.Text, breakTimeSelector.Text);
@@ -121,6 +129,8 @@ namespace Time_s_Up_.Task_Tester
         //Telling the program to begin the process of starting the break timer
         protected virtual void OnTimerTick(object sender, EventArgs e)
         {
+            Console.WriteLine("the break tick is working");
+
             new ToastContentBuilder()
                 .AddArgument("action", "viewConversation")
                 .AddArgument("taskid")
@@ -150,6 +160,9 @@ namespace Time_s_Up_.Task_Tester
         //Telling the program to restart the segment timer once the break timer ends
         protected virtual void OnBreakEnd(object sender, EventArgs e)
         {
+            Console.WriteLine("the task tick is working");
+
+
             if (segmentCounter <= segmentAmount)
             {
                 new ToastContentBuilder()

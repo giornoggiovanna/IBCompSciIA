@@ -1,83 +1,28 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
-
-	<PropertyGroup>
-		<OutputType>WinExe</OutputType>
-		<TargetFramework>net5.0-windows</TargetFramework>
-		<UseWindowsForms>true</UseWindowsForms>
-		<GenerateAssemblyInfo>false</GenerateAssemblyInfo>
-
-		<RootNamespace>Time_s_Up_</RootNamespace>
-		<AssemblyName>Time%27s Up!</AssemblyName>
-	</PropertyGroup>
-
-	<ItemGroup>
-		<Reference Include="Microsoft.Toolkit.Uwp.Notifications, Version=7.1.0.0, Culture=neutral, PublicKeyToken=4aff67a105548ee2, processorArchitecture=MSIL">
-			<HintPath>packages\Microsoft.Toolkit.Uwp.Notifications.7.1.2\lib\net461\Microsoft.Toolkit.Uwp.Notifications.dll</HintPath>
-		</Reference>
-		<Reference Include="System" />
-		<Reference Include="System.Core" />
-		<Reference Include="System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
-			<HintPath>packages\System.ValueTuple.4.5.0\lib\net47\System.ValueTuple.dll</HintPath>
-		</Reference>
-		<Reference Include="System.Xml.Linq" />
-		<Reference Include="System.Data.DataSetExtensions" />
-		<Reference Include="Microsoft.CSharp" />
-		<Reference Include="System.Data" />
-		<Reference Include="System.Deployment" />
-		<Reference Include="System.Drawing" />
-		<Reference Include="System.Net.Http" />
-		<Reference Include="System.Windows.Forms" />
-		<Reference Include="System.Xml" />
-	</ItemGroup>
-
-	<ItemGroup>
-		<None Update="Properties\Settings.settings">
-			<Generator>SettingsSingleFileGenerator</Generator>
-			<LastGenOutput>Settings.Designer.cs</LastGenOutput>
-		</None>
-		<EmbeddedResource Update="MainMenu.resx">
-			<DependentUpon>MainMenu.cs</DependentUpon>
-		</EmbeddedResource>
-		<EmbeddedResource Update="PomodoroTaskPage.resx">
-			<DependentUpon>PomodoroTaskPage.cs</DependentUpon>
-		</EmbeddedResource>
-		<EmbeddedResource Update="taskpage.resx">
-			<DependentUpon>taskpage.cs</DependentUpon>
-		</EmbeddedResource>
-		<EmbeddedResource Update="Properties\Resources.resx">
-			<Generator>ResXFileCodeGenerator</Generator>
-			<LastGenOutput>Resources.Designer.cs</LastGenOutput>
-		</EmbeddedResource>
-		<Compile Update="Properties\Resources.Designer.cs">
-		  <DesignTime>True</DesignTime>
-		  <AutoGen>True</AutoGen>
-		  <DependentUpon>Resources.resx</DependentUpon>
-		</Compile>
-		<Compile Update="Properties\Settings.Designer.cs">
-			<AutoGen>True</AutoGen>
-			<DependentUpon>Settings.settings</DependentUpon>
-			<DesignTimeSharedInput>True</DesignTimeSharedInput>
-		</Compile>
-		<Compile Update="MainMenu.cs">
-			<SubType>Form</SubType>
-		</Compile>
-		<Compile Update="MainMenu.Designer.cs">
-			<DependentUpon>MainMenu.cs</DependentUpon>
-		</Compile>
-		<Compile Update="PomodoroTaskPage.cs">
-			<SubType>Form</SubType>
-		</Compile>
-		<Compile Update="PomodoroTaskPage.Designer.cs">
-			<DependentUpon>PomodoroTaskPage.cs</DependentUpon>
-		</Compile>
-		<Compile Update="taskpage.cs">
-			<SubType>Form</SubType>
-		</Compile>
-		<Compile Update="taskpage.Designer.cs">
-			<DependentUpon>taskpage.cs</DependentUpon>
-		</Compile>
-		<Compile Update="Program.cs" />
-		<Compile Update="Properties\AssemblyInfo.cs" />
-	</ItemGroup>
-
+  <PropertyGroup>
+    <TargetFramework>net7.0-windows10.0.19041</TargetFramework>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Time_s_Up_</RootNamespace>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImportWindowsDesktopTargets>true</ImportWindowsDesktopTargets>
+  </PropertyGroup>
+  <PropertyGroup>
+    <LangVersion>8.0</LangVersion>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>Time_s_Up_.Program</StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Folder Include="Task Tester\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.CSharp" Version="4.7.0" />
+    <PackageReference Include="Microsoft.Toolkit.Uwp.Notifications" Version="7.1.2" />
+    <PackageReference Include="System.Data.DataSetExtensions" Version="4.5.0" />
+    <PackageReference Include="Microsoft.DotNet.UpgradeAssistant.Extensions.Default.Analyzers" Version="0.4.355802">
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.Windows.Compatibility" Version="7.0.0" />
+  </ItemGroup>
 </Project>

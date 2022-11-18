@@ -1,0 +1,102 @@
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIABackup\compsci ia\Time's Up!\bin\Debug\net7.0-windows10.0.19041\Time's Up!.exe
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIABackup\compsci ia\Time's Up!\bin\Debug\net7.0-windows10.0.19041\Time's Up!.dll.config
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIABackup\compsci ia\Time's Up!\bin\Debug\net7.0-windows10.0.19041\Time's Up!.deps.json
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIABackup\compsci ia\Time's Up!\bin\Debug\net7.0-windows10.0.19041\Time's Up!.runtimeconfig.json
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIABackup\compsci ia\Time's Up!\bin\Debug\net7.0-windows10.0.19041\Time's Up!.dll
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIABackup\compsci ia\Time's Up!\bin\Debug\net7.0-windows10.0.19041\Time's Up!.pdb
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIABackup\compsci ia\Time's Up!\bin\Debug\net7.0-windows10.0.19041\Microsoft.Bcl.AsyncInterfaces.dll
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIABackup\compsci ia\Time's Up!\bin\Debug\net7.0-windows10.0.19041\Microsoft.Extensions.ObjectPool.dll
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIABackup\compsci ia\Time's Up!\bin\Debug\net7.0-windows10.0.19041\Microsoft.Toolkit.Uwp.Notifications.dll
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIABackup\compsci ia\Time's Up!\bin\Debug\net7.0-windows10.0.19041\System.ComponentModel.Composition.dll
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIABackup\compsci ia\Time's Up!\bin\Debug\net7.0-windows10.0.19041\System.ComponentModel.Composition.Registration.dll
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIABackup\compsci ia\Time's Up!\bin\Debug\net7.0-windows10.0.19041\System.Data.Odbc.dll
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIABackup\compsci ia\Time's Up!\bin\Debug\net7.0-windows10.0.19041\System.Data.OleDb.dll
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIABackup\compsci ia\Time's Up!\bin\Debug\net7.0-windows10.0.19041\System.Data.SqlClient.dll
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIABackup\compsci ia\Time's Up!\bin\Debug\net7.0-windows10.0.19041\System.DirectoryServices.AccountManagement.dll
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIABackup\compsci ia\Time's Up!\bin\Debug\net7.0-windows10.0.19041\System.DirectoryServices.Protocols.dll
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIABackup\compsci ia\Time's Up!\bin\Debug\net7.0-windows10.0.19041\System.IO.Ports.dll
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIABackup\compsci ia\Time's Up!\bin\Debug\net7.0-windows10.0.19041\System.Management.dll
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIABackup\compsci ia\Time's Up!\bin\Debug\net7.0-windows10.0.19041\System.Private.ServiceModel.dll
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIABackup\compsci ia\Time's Up!\bin\Debug\net7.0-windows10.0.19041\System.Reflection.Context.dll
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIABackup\compsci ia\Time's Up!\bin\Debug\net7.0-windows10.0.19041\System.Runtime.Caching.dll
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIABackup\compsci ia\Time's Up!\bin\Debug\net7.0-windows10.0.19041\System.ServiceModel.Duplex.dll
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIABackup\compsci ia\Time's Up!\bin\Debug\net7.0-windows10.0.19041\System.ServiceModel.Http.dll
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIABackup\compsci ia\Time's Up!\bin\Debug\net7.0-windows10.0.19041\System.ServiceModel.NetTcp.dll
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIABackup\compsci ia\Time's Up!\bin\Debug\net7.0-windows10.0.19041\System.ServiceModel.Primitives.dll
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIABackup\compsci ia\Time's Up!\bin\Debug\net7.0-windows10.0.19041\System.ServiceModel.dll
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIABackup\compsci ia\Time's Up!\bin\Debug\net7.0-windows10.0.19041\System.ServiceModel.Security.dll
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIABackup\compsci ia\Time's Up!\bin\Debug\net7.0-windows10.0.19041\System.ServiceModel.Syndication.dll
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIABackup\compsci ia\Time's Up!\bin\Debug\net7.0-windows10.0.19041\System.ServiceProcess.ServiceController.dll
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIABackup\compsci ia\Time's Up!\bin\Debug\net7.0-windows10.0.19041\System.Speech.dll
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIABackup\compsci ia\Time's Up!\bin\Debug\net7.0-windows10.0.19041\System.Web.Services.Description.dll
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIABackup\compsci ia\Time's Up!\bin\Debug\net7.0-windows10.0.19041\cs\System.Private.ServiceModel.resources.dll
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIABackup\compsci ia\Time's Up!\bin\Debug\net7.0-windows10.0.19041\de\System.Private.ServiceModel.resources.dll
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIABackup\compsci ia\Time's Up!\bin\Debug\net7.0-windows10.0.19041\es\System.Private.ServiceModel.resources.dll
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIABackup\compsci ia\Time's Up!\bin\Debug\net7.0-windows10.0.19041\fr\System.Private.ServiceModel.resources.dll
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIABackup\compsci ia\Time's Up!\bin\Debug\net7.0-windows10.0.19041\it\System.Private.ServiceModel.resources.dll
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIABackup\compsci ia\Time's Up!\bin\Debug\net7.0-windows10.0.19041\ja\System.Private.ServiceModel.resources.dll
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIABackup\compsci ia\Time's Up!\bin\Debug\net7.0-windows10.0.19041\ko\System.Private.ServiceModel.resources.dll
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIABackup\compsci ia\Time's Up!\bin\Debug\net7.0-windows10.0.19041\pl\System.Private.ServiceModel.resources.dll
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIABackup\compsci ia\Time's Up!\bin\Debug\net7.0-windows10.0.19041\pt-BR\System.Private.ServiceModel.resources.dll
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIABackup\compsci ia\Time's Up!\bin\Debug\net7.0-windows10.0.19041\ru\System.Private.ServiceModel.resources.dll
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIABackup\compsci ia\Time's Up!\bin\Debug\net7.0-windows10.0.19041\tr\System.Private.ServiceModel.resources.dll
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIABackup\compsci ia\Time's Up!\bin\Debug\net7.0-windows10.0.19041\zh-Hans\System.Private.ServiceModel.resources.dll
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIABackup\compsci ia\Time's Up!\bin\Debug\net7.0-windows10.0.19041\zh-Hant\System.Private.ServiceModel.resources.dll
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIABackup\compsci ia\Time's Up!\bin\Debug\net7.0-windows10.0.19041\cs\System.Web.Services.Description.resources.dll
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIABackup\compsci ia\Time's Up!\bin\Debug\net7.0-windows10.0.19041\de\System.Web.Services.Description.resources.dll
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIABackup\compsci ia\Time's Up!\bin\Debug\net7.0-windows10.0.19041\es\System.Web.Services.Description.resources.dll
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIABackup\compsci ia\Time's Up!\bin\Debug\net7.0-windows10.0.19041\fr\System.Web.Services.Description.resources.dll
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIABackup\compsci ia\Time's Up!\bin\Debug\net7.0-windows10.0.19041\it\System.Web.Services.Description.resources.dll
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIABackup\compsci ia\Time's Up!\bin\Debug\net7.0-windows10.0.19041\ja\System.Web.Services.Description.resources.dll
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIABackup\compsci ia\Time's Up!\bin\Debug\net7.0-windows10.0.19041\ko\System.Web.Services.Description.resources.dll
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIABackup\compsci ia\Time's Up!\bin\Debug\net7.0-windows10.0.19041\pl\System.Web.Services.Description.resources.dll
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIABackup\compsci ia\Time's Up!\bin\Debug\net7.0-windows10.0.19041\pt-BR\System.Web.Services.Description.resources.dll
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIABackup\compsci ia\Time's Up!\bin\Debug\net7.0-windows10.0.19041\ru\System.Web.Services.Description.resources.dll
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIABackup\compsci ia\Time's Up!\bin\Debug\net7.0-windows10.0.19041\tr\System.Web.Services.Description.resources.dll
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIABackup\compsci ia\Time's Up!\bin\Debug\net7.0-windows10.0.19041\zh-Hans\System.Web.Services.Description.resources.dll
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIABackup\compsci ia\Time's Up!\bin\Debug\net7.0-windows10.0.19041\zh-Hant\System.Web.Services.Description.resources.dll
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIABackup\compsci ia\Time's Up!\bin\Debug\net7.0-windows10.0.19041\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIABackup\compsci ia\Time's Up!\bin\Debug\net7.0-windows10.0.19041\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIABackup\compsci ia\Time's Up!\bin\Debug\net7.0-windows10.0.19041\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIABackup\compsci ia\Time's Up!\bin\Debug\net7.0-windows10.0.19041\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIABackup\compsci ia\Time's Up!\bin\Debug\net7.0-windows10.0.19041\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIABackup\compsci ia\Time's Up!\bin\Debug\net7.0-windows10.0.19041\runtimes\win-arm64\native\sni.dll
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIABackup\compsci ia\Time's Up!\bin\Debug\net7.0-windows10.0.19041\runtimes\win-x64\native\sni.dll
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIABackup\compsci ia\Time's Up!\bin\Debug\net7.0-windows10.0.19041\runtimes\win-x86\native\sni.dll
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIABackup\compsci ia\Time's Up!\bin\Debug\net7.0-windows10.0.19041\runtimes\freebsd\lib\net7.0\System.Data.Odbc.dll
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIABackup\compsci ia\Time's Up!\bin\Debug\net7.0-windows10.0.19041\runtimes\illumos\lib\net7.0\System.Data.Odbc.dll
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIABackup\compsci ia\Time's Up!\bin\Debug\net7.0-windows10.0.19041\runtimes\ios\lib\net7.0\System.Data.Odbc.dll
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIABackup\compsci ia\Time's Up!\bin\Debug\net7.0-windows10.0.19041\runtimes\linux\lib\net7.0\System.Data.Odbc.dll
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIABackup\compsci ia\Time's Up!\bin\Debug\net7.0-windows10.0.19041\runtimes\osx\lib\net7.0\System.Data.Odbc.dll
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIABackup\compsci ia\Time's Up!\bin\Debug\net7.0-windows10.0.19041\runtimes\solaris\lib\net7.0\System.Data.Odbc.dll
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIABackup\compsci ia\Time's Up!\bin\Debug\net7.0-windows10.0.19041\runtimes\tvos\lib\net7.0\System.Data.Odbc.dll
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIABackup\compsci ia\Time's Up!\bin\Debug\net7.0-windows10.0.19041\runtimes\win\lib\net7.0\System.Data.Odbc.dll
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIABackup\compsci ia\Time's Up!\bin\Debug\net7.0-windows10.0.19041\runtimes\win\lib\net7.0\System.Data.OleDb.dll
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIABackup\compsci ia\Time's Up!\bin\Debug\net7.0-windows10.0.19041\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIABackup\compsci ia\Time's Up!\bin\Debug\net7.0-windows10.0.19041\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIABackup\compsci ia\Time's Up!\bin\Debug\net7.0-windows10.0.19041\runtimes\win\lib\net7.0\System.DirectoryServices.AccountManagement.dll
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIABackup\compsci ia\Time's Up!\bin\Debug\net7.0-windows10.0.19041\runtimes\linux\lib\net7.0\System.DirectoryServices.Protocols.dll
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIABackup\compsci ia\Time's Up!\bin\Debug\net7.0-windows10.0.19041\runtimes\osx\lib\net7.0\System.DirectoryServices.Protocols.dll
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIABackup\compsci ia\Time's Up!\bin\Debug\net7.0-windows10.0.19041\runtimes\win\lib\net7.0\System.DirectoryServices.Protocols.dll
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIABackup\compsci ia\Time's Up!\bin\Debug\net7.0-windows10.0.19041\runtimes\unix\lib\net7.0\System.IO.Ports.dll
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIABackup\compsci ia\Time's Up!\bin\Debug\net7.0-windows10.0.19041\runtimes\win\lib\net7.0\System.IO.Ports.dll
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIABackup\compsci ia\Time's Up!\bin\Debug\net7.0-windows10.0.19041\runtimes\win\lib\net7.0\System.Management.dll
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIABackup\compsci ia\Time's Up!\bin\Debug\net7.0-windows10.0.19041\runtimes\win\lib\net7.0\System.Runtime.Caching.dll
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIABackup\compsci ia\Time's Up!\bin\Debug\net7.0-windows10.0.19041\runtimes\win\lib\net7.0\System.ServiceProcess.ServiceController.dll
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIABackup\compsci ia\Time's Up!\bin\Debug\net7.0-windows10.0.19041\runtimes\win\lib\net7.0\System.Speech.dll
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIABackup\compsci ia\Time's Up!\bin\Debug\net7.0-windows10.0.19041\Microsoft.Windows.SDK.NET.dll
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIABackup\compsci ia\Time's Up!\bin\Debug\net7.0-windows10.0.19041\WinRT.Runtime.dll
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIABackup\compsci ia\Time's Up!\obj\Debug\net7.0-windows10.0.19041\Time's Up!.csproj.AssemblyReference.cache
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIABackup\compsci ia\Time's Up!\obj\Debug\net7.0-windows10.0.19041\Time_s_Up_.MainMenu.resources
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIABackup\compsci ia\Time's Up!\obj\Debug\net7.0-windows10.0.19041\Time_s_Up_.Task_Tester.PomodoroTaskPage.resources
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIABackup\compsci ia\Time's Up!\obj\Debug\net7.0-windows10.0.19041\Time_s_Up_.Properties.Resources.resources
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIABackup\compsci ia\Time's Up!\obj\Debug\net7.0-windows10.0.19041\Time_s_Up_.Task_Tester.taskpage.resources
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIABackup\compsci ia\Time's Up!\obj\Debug\net7.0-windows10.0.19041\Time's Up!.csproj.GenerateResource.cache
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIABackup\compsci ia\Time's Up!\obj\Debug\net7.0-windows10.0.19041\Time's Up!.GeneratedMSBuildEditorConfig.editorconfig
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIABackup\compsci ia\Time's Up!\obj\Debug\net7.0-windows10.0.19041\Time's Up!.csproj.CoreCompileInputs.cache
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIABackup\compsci ia\Time's Up!\obj\Debug\net7.0-windows10.0.19041\Time's Up!.csproj.CopyComplete
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIABackup\compsci ia\Time's Up!\obj\Debug\net7.0-windows10.0.19041\Time's Up!.dll
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIABackup\compsci ia\Time's Up!\obj\Debug\net7.0-windows10.0.19041\refint\Time's Up!.dll
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIABackup\compsci ia\Time's Up!\obj\Debug\net7.0-windows10.0.19041\Time's Up!.pdb
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIABackup\compsci ia\Time's Up!\obj\Debug\net7.0-windows10.0.19041\Time's Up!.genruntimeconfig.cache
+\\s002sf22\UserData001_Hemkat$\hayzam1022\Dokument\CompSciIABackup\compsci ia\Time's Up!\obj\Debug\net7.0-windows10.0.19041\ref\Time's Up!.dll

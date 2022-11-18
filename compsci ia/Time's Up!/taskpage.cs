@@ -45,6 +45,9 @@ namespace Time_s_Up_.Task_Tester
 
         private void createTaskButton_Click(object sender, EventArgs e)
         {
+
+            bool isNull = true;
+
             //Sending the initial notification
             new ToastContentBuilder()
                 .AddArgument("action", "viewConversation")
@@ -57,20 +60,24 @@ namespace Time_s_Up_.Task_Tester
             //Initializing the new task
 
                 Task newTask = new Task();
-           
+
+            //newTask.timerTime ?? isNull = true;
+
+
             try
             {
-                newTask.timerTime = float.Parse(timeInput.Text);
                 newTask.taskName = taskNameInput.Text;
 
-            } catch (Exception ex)
+            }
+            catch (Exception ex)
             {
                 Console.WriteLine("Please fill in the required boxes!");
             }
             try
             {
                 newTask.description = descriptionInput.Text;
-            } catch (Exception ex)
+            }
+            catch (Exception ex)
             {
                 newTask.description = "Not specified";
             }
@@ -85,12 +92,6 @@ namespace Time_s_Up_.Task_Tester
 
             //Saving it to memory
 
-            //pasttasks[i, 1] = newTask.taskName;
-            //pasttasks[i, 2] = newTask.description;
-            //pasttasks[i, 3] = timeInput.Text;
-            //pasttasks[i, 4] = timeSelector.Text;
-
-            //Console.WriteLine(pasttasks[i, 2]);
 
             i++;
 

@@ -112,7 +112,7 @@
             this.descriptionLabel.Size = new System.Drawing.Size(102, 25);
             this.descriptionLabel.TabIndex = 7;
             this.descriptionLabel.Text = "Description";
-            this.descriptionLabel.Click += new System.EventHandler(this.descriptionLabel_Click);
+            //this.descriptionLabel.Click += new System.EventHandler(this.descriptionLabel_Click);
             // 
             // createTaskButton
             // 
