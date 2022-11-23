@@ -1,0 +1,9 @@
+is_global = true
+build_property.ApplicationManifest = 
+build_property.StartupObject = Time_s_Up_.Program
+build_property.ApplicationDefaultFont = 
+build_property.ApplicationHighDpiMode = 
+build_property.ApplicationUseCompatibleTextRendering = 
+build_property.ApplicationVisualStyles = 
+build_property.RootNamespace = Time_s_Up_
+build_property.ProjectDir = H:\Dokument\CompSciIABackup\compsci ia\Time's Up!\
